@@ -18,6 +18,12 @@ Installation Instructions:
 6. Run "cd x-patrol"
 7. Run "./build.sh"
 
+OR 
+
+Run the below gist
+https://gist.githubusercontent.com/insi2304/2b3c768954545b592752fa90449320b4/raw/12d223ee4fe233835d1913059681940213712103/install_xpatrol.sh
+
+
 Running Instructions:
 ---------------------
 The command line parameters are as follows:
