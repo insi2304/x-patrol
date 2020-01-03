@@ -7,8 +7,8 @@ go get github.com/go-macaron/captcha
 go get github.com/go-macaron/csrf
 go get github.com/go-macaron/session
 go get github.com/go-sql-driver/mysql
-go get github.com/go-xorm/core
-go get github.com/go-xorm/xorm
+go get xorm.io/core
+go get xorm.io/xorm
 go get github.com/google/go-github/github
 go get github.com/lib/pq
 go get github.com/sirupsen/logrus
