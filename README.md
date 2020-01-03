@@ -7,7 +7,19 @@ Dual engine search, github code interface search global github and local search 
 Support rule management (github search rules and local repos search rules)
 Support GitHub token management and user management
 Support auditing of scan results in WEB
-Instructions
+
+Installation Instructions:
+-------------
+1. Navigate to GoPath Src directory
+2. Run "cd /root/gopath/src/"
+3. Run "mkdir insi2304"
+4. Run "cd insi2304"
+5. Run "git clone https://github.com/insi2304/x-patrol.git"
+6. Run "cd x-patrol"
+7. Run "./build.sh"
+
+Running Instructions:
+---------------------
 The command line parameters are as follows:
 web command means start web management
 The scan command indicates that only github search is started
